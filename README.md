@@ -7,7 +7,8 @@ This repository contains the programs used in my Bachelor's thesis in Electronic
 
 In the repository you will find different algorithms created for automating these schedules. All of them utilize data from the file 'Datos EHu.csv', which includes data from the Physics and Electronic Engineering degrees at the Faculty of Science and Technology of UPV/EHU. 
 
-Each folder contains programs corresponding to its name.To run the different algorithms, you need to run the programs found in the folders with the same name. In the case of the greedy algorithm, you need to run the program called 'Programa_Voraz.py', since 'Algoritmo_Voraz.py' is a module that obtains the greedy solution but is also used by other programs. The four algorithms create an Excel file as output with the weekly schedule.
+Each folder contains programs corresponding to its name.To run the different algorithms, you need to run the programs found in the folders with the same name. In the case of the greedy algorithm, you need to run the program called 'Programa_Voraz.py', since 'Algoritmo_Voraz.py' is a module that obtains the greedy solution but is also used by other programs. The four algorithms create an Excel file as output with the weekly schedule. The name of the generated Excel files is the one entered in the program in the last lines.
+
 
 The programs 'Tabu.py', 'Simulated_Anneling.py', and 'Programa_Voraz.py' use the module 'Pasar_excel.py' to convert results to Excel format. These three programs and 'Programacion_Lineal.py' utilize the module 'Lectura_de_datos.py' to read files from 'Datos EHU.csv'.
 
