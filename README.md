@@ -14,6 +14,8 @@ The programs 'Tabu.py', 'Simulated_Anneling.py', and 'Programa_Voraz.py' use the
 
 Additionally, 'Tabu.py', 'Simulated_Anneling.py', and 'Programa_Voraz.py' utilize 'Algoritmo_Voraz.py', which creates the greedy solution that serves as the basis for both Simulated Annealing and Tabu Search.
 
+The data used by all the programs are in the file Datos EHU.csv. These belong to the Physics and Electronic Engineering degrees at UPV/EHU and are read using the Lecura_de_datos.py program.
+
 ## Libraries required
 
 
