@@ -1,0 +1,93 @@
+Grado;Curso;Asignatura;Profesor;Cuatrimestre;Rama;Tarde;Duracion;Dias a la Semana;Preferencia Hora;Preferencia Dia;Coincidir
+Fisica;1;Fisica General;Maria Luisa No;1 y 2;No;No;1;4;1 2 3 4;2 3 4;No
+Fisica;1;Algebra;Jose Antonio Santiesteban;1 y 2;No;No;1;3;1 2 3;0;No
+Fisica;1;Algebra GA1;Antonio Vera;1 y 2;No;No;1;1;1 2 3 4;1 2 3;Calculo GA2
+Fisica;1;Algebra GA2;Antonio Vera;1 y 2;No;No;1;1;1 2 3 4;1 2 3;Calculo GA1
+Fisica;1;Calculo;Antonio Vera;1 y 2;No;No;1;3;3;5;No
+Fisica;1;Calculo GA1;Abdel Mallik;1 y 2;No;No;1;1;2;2;Algebra GA2
+Fisica;1;Calculo GA2;Abdel Mallik;1 y 2;No;No;1;1;2;2;Algebra GA1
+Fisica;1;Quimica I;Jorge Lago;1;No;No;1;4;2;2;No
+Fisica;1;Introduccion a la computacion;Maria Amparo Varona ;1;No;No;1;4;1;1 2 3 4;No
+Fisica;1;Quimica II;Maria Puy Elizalde;2;No;No;1;4;1 4;3;No
+Fisica;1;Tecnicas Experimentales I;Hegoi Manzano;2;No;Si;4;1;8 9;1;No
+Fisica;2;Analisis Vectorial y Complejo;Javier Canto;1 y 2 ;No;Si;1;3;7;2;No
+Fisica;2;Mecanica y Ondas;Josu Ortega ;1 y 2;No;Si;1;5;9;1 2 3 4;No
+Fisica;2;Metodos Matematicos;Ivan Esteban;1 y 2;No;Si;1;3;7 8 10;2 3 4 5;No
+Fisica;2;Metodos Matematicos GA1;Mariam Bouhmadi;1 y 2;No;Si;1;1;8;2 3 4 5;No
+Fisica;2;Metodos Matematicos GA2;Mariam Bouhmadi;1 y 2;No;Si;1;1;8;2 3 4 5;No
+Fisica;2;Electromagnetimo I;Aritz Leonardo;1;No;Si;1;4;7 8 10;2;No
+Fisica;2;Electronica;Javier Echanove;1;No;Si;1;4;7 9;3;No
+Fisica;2;Fisica Moderna;I¤igo Gonzalez;2;No;Si;1;4;10;0;No
+Fisica;2;Tecnicas Experimentales II;Hegoi Manzano;2;No;No;4;1;0;5;No
+Fisica;3;Fisica Cuantica;I¤igo Etxebarria;1;No;No;1;4;4 5;3;No
+Fisica;3;Fisica Cuantica;Cesar Luis Folcia;2;No;No;1;4;1 2 3;1;No
+Fisica;3;Metodos Computacionales;Gotzon Madariaga;1 y 2;No;No;1;4;1 2 3;2;No
+Fisica;3;Termodinamica y Fisica Estadistica;Jose Miguel Campillo;1;No;No;1;4;1 2 3;0;No
+Fisica;3;Termodinamica y Fisica Estadistica;Hegoi Manzano;2;No;No;1;4;2 3 4;2 3 4 5;No
+Fisica;3;Tecnicas Experimentales III;Josu Ortega;2;No;Si;4;1;0;4 5;No
+Fisica;3;Tecnicas Experimentales III;Jose Angel Garcia;1;No;Si;4;1;0;2 3 4 5;No
+Fisica;3;Electromagnetismo II;Patricia Lazpita;1;No;No;1;4;2 3 4;4 5;No
+Fisica;3;Optica;Jose Angel Garcia;1;No;No;1;4;3;1 2 3 4 5;No
+Fisica;4;Fisica del Estado Solido I;Jesus Martinez;1;No;No;1;4;2;2 3 4 5;No
+Fisica;4;Fisica Nuclear y de Particulas;Manuel Angel Valle;2;No;No;1;4;1;1 2 3 4;No
+Fisica;Optativa;Sensores y Actuadores;Alfredo Garcia;1;Instrumentacion y Medida;No;1;4;1 2 3 4;2 3 4 5;No
+Fisica;Optativa;Se¤ales y Sistemas;Santiago Alonso;1;Instrumentacion y Medida;No;1;4;2 4;2 4 5;No
+Fisica;Optativa;Astrofisica;David Brizuela;2;Fisica Fundamental;No;1;4;2 4;1 3 4;No
+Fisica;Optativa;Comunicaci¢n Cientifico-tecnica en Euskera;Gontzal Aldai;1;;Si;2;2;7 10;2 3 4 5;No
+Fisica;Optativa;Comunicaci¢n Cientifico-tecnica Oral en Euskera;Gontzal Aldai;2;;Si;2;2;7 9;1 3 4;No
+Fisica;Optativa;Fisica de los Medios Continuos;Jose Maria San Juan;2;Fisica del Estado Solido;No;1;4;1 2;2 3 4;No
+Fisica;Optativa;Gravitacion y Cosmologia;Jose Maria Martin;2;Fisica Fundamental;No;1;4;2 4;2 3 4;No
+Fisica;Optativa;Instrumentacion I;Joaquin Portilla ;2;Instrumentacion y Medida;No;1;4;2 4;1 2 3 4;No
+Fisica;Optativa;Mecanica Cuantica;Manuel Angel Valle;1;Fisica Fundamental;No;1;4;2;2 3 4 5;No
+Fisica;Optativa;Propiedades Estructurales de los Solidos;Luis Angel Elcoro;1;Fisica del Estado Solido;No;1;4;3;1 2 3 4;No
+Fisica;Optativa;Control Automatico I;Ibone Lizarraga;2;Instrumentacion y Medida;No;1;4;1 3;1 2 3 4;No
+Fisica;Optativa;Electronica Analogica;Maria Victoria Martinez;2;Instrumentacion y Medida;No;1;4;2;2;No
+Fisica;Optativa;Fisica del Estado Solido II;Juan Luis Ma¤es;2;Fisica del Estado Solido;No;1;4;1 2 3;1 2;No
+Fisica;Optativa;Temas de Fisica;Jose Maria Martin;2;Fisica Fundamental;No;1;4;1 3 4;1 2 3;No
+Fisica;Optativa;Tecnicas Experimentales IV;Cesar Luis Folcia;2;Fisica del Estado Solido;Si;4;1;2 3 4;2 3;No
+Fisica;Optativa;Electrodinamica;I¤aki Garay;1;Fisica Fundamental;No;1;4;2 3;1 2 3 4;No
+Ingenieria Electronica;1;Fisica General;Maria Luisa No;1 y 2;No;No;1;4;1 2 3 4;2 3 4;No
+Ingenieria Electronica;1;Algebra;Jose Antonio Santiesteban;1 y 2;No;No;1;3;1 2 3;0;No
+Ingenieria Electronica;1;Algebra GA1;Antonio Vera;1 y 2;No;No;1;1;1 2 3 4;1 2 3;Calculo GA2
+Ingenieria Electronica;1;Algebra GA2;Antonio Vera;1 y 2;No;No;1;1;1 2 3 4;1 2 3;Calculo GA1
+Ingenieria Electronica;1;Calculo;Antonio Vera;1 y 2;No;No;1;3;3;5;No
+Ingenieria Electronica;1;Calculo GA1;Abdel Mallik;1 y 2;No;No;1;1;2;2;Algebra GA2
+Ingenieria Electronica;1;Calculo GA2;Abdel Mallik;1 y 2;No;No;1;1;2;2;Algebra GA1
+Ingenieria Electronica;1;Quimica I;Jorge Lago;1;No;No;1;4;2;2;No
+Ingenieria Electronica;1;Introduccion a la computacion;Maria Amparo Varona ;1;No;No;1;4;1;1 2 3 4;No
+Ingenieria Electronica;1;Fundamentos de Programacion;Luis Javier Rodriguez;2;No;No;1;4;1 4;3;No
+Ingenieria Electronica;1;Tecnicas Experimentales I;Hegoi Manzano;2;No;Si;4;1;8 9;1;No
+Ingenieria Electronica;2;Analisis Vectorial y Complejo;Javier Canto;1 y 2 ;No;Si;1;4;7;2;No
+Ingenieria Electronica;2;Mecanica y Ondas;Josu Ortega ;1 y 2;No;Si;1;4;9;1 2 3 4;No
+Ingenieria Electronica;2;Metodos Matematicos;Ivan Esteban;1 y 2;No;Si;1;3;7 8 10;2 3 4 5;No
+Ingenieria Electronica;2;Metodos Matematicos GA1;Mariam Bouhmadi;1 y 2;No;Si;1;1;8;2 3 4 5;No
+Ingenieria Electronica;2;Metodos Matematicos GA2;Mariam Bouhmadi;1 y 2;No;Si;1;1;8;2 3 4 5;No
+Ingenieria Electronica;2;Electromagnetimo I;Aritz Leonardo;1;No;Si;1;4;7 8 10;2;No
+Ingenieria Electronica;2;Electronica;Javier Echanove;1;No;Si;1;4;7 9;3;No
+Ingenieria Electronica;2;Fisica Moderna;I¤igo Gonzalez;2;No;Si;1;4;10;0;No
+Ingenieria Electronica;2;Tecnicas Experimentales II;Hegoi Manzano;2;No;No;4;1;0;5;No
+Ingenieria Electronica;3;Dispositivos Electronicos y Optoelectronicos;Maria Victoria Martinez;1;No;No;1;4;2 4;2 4 5;No
+Ingenieria Electronica;3;Electromagnetismo II;Patricia Lazpita;1;No;No;1;4;2 4;1 3 4;No
+Ingenieria Electronica;3;Electronica Digital;Ines Juliana del Campo;1;No;No;1;4;7 10;2 3 4 5;No
+Ingenieria Electronica;3;Se¤ales y Sistemas;Santiago Alonso;1;No;No;1;4;7 9;1 3 4;No
+Ingenieria Electronica;3;Tecnicas Actuales de Programacion ;German Bordel;1;No;No;1;4;1 2;2 3 4;No
+Ingenieria Electronica;3;Arquitectura de Computadores;German Bordel;2;No;No;1;4;2 4;2 3 4;No
+Ingenieria Electronica;3;Circuitos Lineales y no Lineales;Javier Echanove;2;No;No;1;4;2 3 4;4 5;No
+Ingenieria Electronica;3;Control Automatico I;Ibone Lizarraga;2;No;No;1;4;3;1 2 3 4 5;No
+Ingenieria Electronica;3;Electronica Analogica;Maria Victoria Martinez;2;No;No;1;4;2;2 3 4 5;No
+Ingenieria Electronica;3;Instrumentacion I;Joaquin Portilla;2;No;No;1;4;1;1 2 3 4;No
+Ingenieria Electronica;4;Empresa y Proyectos;Iker Caballero;1;No;No;1;5;1 2 3 4;2 3 4 5;No
+Ingenieria Electronica;Optativa;Fisica Cuantica;I¤igo Etxebarria ;1;No;No;1;4;4 5;3;No
+Ingenieria Electronica;Optativa;Fisica Cuantica;Cesar Luis Folcia;2;No;No;1;4;1 2 3;1;No
+Ingenieria Electronica;Optativa;Termodinamica y Fisica Estadistica;Jose Miguel Campillo;1;Fisica;No;1;4;1 2 3;2;No
+Ingenieria Electronica;Optativa;Termodinamica y Fisica Estadistica;Hegoi Manzano;2;Fisica;No;1;4;1 2 3;0;No
+Ingenieria Electronica;Optativa;Comunicaci¢n Cientifico-tecnica en Euskera;Gontzal Aldai;1;;Si;2;2;2 3 4;2 3 4 5;No
+Ingenieria Electronica;Optativa;Comunicaci¢n Cientifico-tecnica Oral en Euskera;Gontzal Aldai;2;;Si;2;2;0;0;No
+Ingenieria Electronica;Optativa;Instrumentacion II;Joaquin Portilla;1;Instrumentacion y Control;No;1;4;7 9;3;No
+Ingenieria Electronica;Optativa;Dise¤o de Sistemas Digitales;Ines Juliana del Campo;1;Sistemas Electronicos de Proposito General;No;1;4;10;0;No
+Ingenieria Electronica;Optativa;Microelectronica y Microsistemas;Alfredo Garcia;1;Sistemas Electronicos de Proposito General;No;1;4;0;5;No
+Ingenieria Electronica;Optativa;Sensores y Actuadores;Alfredo Garcia;1;Instrumentacion y Control;No;1;4;4 5;3;No
+Ingenieria Electronica;Optativa;Sistemas de Alta Frecuencia;Joaquin Portilla;1;Sistemas Electronicos de Proposito General;No;1;4;1 2 3;1;No
+Ingenieria Electronica;Optativa;Optica;Jose Angel Garcia;1;Fisica;No;1;4;2 4;1 3 4;No
+Ingenieria Electronica;Optativa;Control Automatico II;Ibon Sagastabeitia;2;Instrumentacion y Control;No;1;4;7 10;2 3 4 5;No
+Ingenieria Electronica;Optativa;Electronica de Comunicaciones;Juan Maria Collantes;2;Sistemas Electronicos de Proposito General;No;1;4;7 9;1 3 4;No
